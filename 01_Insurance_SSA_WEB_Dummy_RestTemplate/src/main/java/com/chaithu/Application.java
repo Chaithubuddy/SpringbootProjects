@@ -35,7 +35,7 @@ class SsnStateController {
         return ssnToStateMap.getOrDefault(ssn, "State not found for SSN: " + ssn);
     }
 }
-
+//testing the for rest Template
 //http://localhost:8080/ssn/5534535 → Returns Rhode Island
 //http://localhost:8080/ssn/433534535 → Returns Ohio
 //http://localhost:8080/ssn/643434 → Returns New Jersey
