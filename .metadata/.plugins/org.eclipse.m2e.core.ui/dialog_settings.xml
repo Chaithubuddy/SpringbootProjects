@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Spy D\Education\project\EonlineCource\Backend\RegisterLogin\RegisterLogin"/>
+			<item value="C:\Users\BUNNY\Downloads\CURD_PRATICE\CURD_PRATICE"/>
+			<item value="C:\virat\scriptpratice"/>
+			<item value="C:\Users\BUNNY\OneDrive\Documents\patient10[1]"/>
+			<item value="C:\Users\BUNNY\OneDrive\Documents\patient9[1]"/>
+			<item value="C:\Users\BUNNY\OneDrive\Documents\scriptOnePraject[1]"/>
+			<item value="C:\Users\BUNNY\OneDrive\Documents\scriptOnePraject[1]\scriptOnePraject"/>
+			<item value="C:\Users\BUNNY\AppData\Local\Microsoft\Windows\INetCache\IE\HHEFEAZV\scriptOnePraject[1].zip\scriptOnePraject"/>
+			<item value="C:\Users\BUNNY\OneDrive\Documents\patient8[1]"/>
+			<item value="C:\virat\Gitclone\scriptOnePraject"/>
+			<item value="C:\Users\BUNNY\OneDrive\Documents\scriptclient[1]"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="ScriptTest"/>
+			<item value="patient10"/>
+			<item value="patient9"/>
+			<item value="patient2"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="NewProject"/>
+			<item value="[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="667"/>
+		<item key="x" value="720"/>
+		<item key="y" value="66"/>
+	</section>
+</section>

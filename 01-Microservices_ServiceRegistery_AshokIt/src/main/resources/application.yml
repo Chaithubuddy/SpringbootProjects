@@ -1,0 +1,9 @@
+Server:
+  port: 8761
+spring:
+  application:
+    name: 01-Microservices_ServiceRegistery_AshokIt
+    
+eureka:
+  client:
+    register-with-eureka: false

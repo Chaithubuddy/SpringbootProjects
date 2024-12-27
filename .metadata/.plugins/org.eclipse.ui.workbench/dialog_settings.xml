@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.m2e.core.wizards.Maven2ImportWizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="600"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="675"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+			<item value="org.eclipse.jdt.ui.CompilationUnitEditor01-Insurance-3-User-Mgmt/src/main/java/com/chaithu/service/UserMasterServiceIMPL.java"/>
+			<item value="org.eclipse.ui.views.TaskList"/>
+			<item value="/01-Insurance-Curd/src/main/java/com/chaithu/narvee/Entity/PlanMaster.java"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.editors"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="impl"/>
+			<item value="tasks"/>
+			<item value="planm"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item key="actionSetFilter" value="true"/>
+		<item key="internalFilter" value="true"/>
+		<item key="uncategorizedFilter" value="true"/>
+	</section>
+</section>

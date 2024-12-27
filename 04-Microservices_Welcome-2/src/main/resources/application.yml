@@ -1,0 +1,23 @@
+server:
+  port: 8091
+spring:
+  application:
+    name: Welcome-2
+  boot:
+    admin:
+      client:
+        url: http://localhost:1111/
+        
+  cloud:
+    compatibility-verifier:
+      enabled: false
+      
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+  
+       
+    

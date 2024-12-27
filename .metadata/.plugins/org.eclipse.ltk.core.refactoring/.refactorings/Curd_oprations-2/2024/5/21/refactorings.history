@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Passport.java&apos; to &apos;com.example.demo.Entity.Student.java&apos;&#x0D;&#x0A;- Original project: &apos;Curd_oprations-2&apos;&#x0D;&#x0A;- Destination element: &apos;com.example.demo.Entity.Student.java&apos;&#x0D;&#x0A;- Original element: &apos;com.example.demo.Entity.Passport.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Curd_oprations-pratice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.Entity{Student.java" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.Entity{Passport.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1716445941458" units="1" version="1.0"/>
+</session>

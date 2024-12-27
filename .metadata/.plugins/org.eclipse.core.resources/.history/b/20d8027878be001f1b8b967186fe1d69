@@ -1,0 +1,5 @@
+package com.chaithu.restController;
+
+public class UserRestController {
+
+}

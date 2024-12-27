@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: 01-Insurance-3-User-Mgmt
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: root
+    url: jdbc:mysql://localhost:3306/Ashok_insurance_USER_MGMT
+    username: root
+    
+  jpa:
+    hibernate:
+     ddl-auto: update

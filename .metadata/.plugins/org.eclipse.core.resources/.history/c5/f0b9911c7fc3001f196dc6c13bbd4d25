@@ -1,0 +1,13 @@
+package com.chaithu.service;
+
+import com.chaithu.entity.CitizenApp;
+
+public class ArServiceImpl implements ArService {
+
+	@Override
+	public Integer createApplication(CitizenApp app) {
+		
+		return null;
+	}
+
+}

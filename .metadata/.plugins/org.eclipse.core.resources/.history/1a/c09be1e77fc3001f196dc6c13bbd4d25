@@ -1,0 +1,9 @@
+package com.chaithu.service;
+
+import com.chaithu.entity.CitizenApp;
+
+public interface ArService {
+	
+	public Integer createApplication(CitizenApp  app);
+
+}

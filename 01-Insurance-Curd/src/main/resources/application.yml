@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: 01-Insurance-Curd
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: root
+    url: jdbc:mysql://localhost:3306/Ashok_insurance_curd
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+
+ 
+plan-api:
+ messages:
+   planSaveSucces: Plan Save Successfully
+   planSaveFail: Plan Save failed
+   planUpdateSuccesfully: Plan updated Successfully
+   planUpdateFail: Plan updated Fail
+   planDeleteSucces: Plan Delete Success
+   planDeleteFail:  Plan Delete Fail
+   planStatusChange: Plan Status Change Successss
+   planStatusChangeFail: Plan Status Change Failed
+   
+   

@@ -1,0 +1,28 @@
+package com.chaithu.service;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.client.RestTemplate;
+
+import com.chaithu.entity.CitizenApp;
+
+public class ArServiceImpl implements ArService {
+	
+	
+
+	@Override
+	public Integer createApplication(CitizenApp app) {
+		
+		String endpontUrl="http://localhost:8080/ssn/{ssn}";
+		RestTemplate rt =new RestTemplate();
+		ResponseEntity<String> forEntity = rt.getForEntity( endpontUrl, String.class,app.getSsn()); 
+		String stateName = forEntity.getBody();
+		if("New jersey".equals(stateName)) {
+			
+			CitizenAppEntity ca=new CitizenAppEntity();
+		
+		}
+		
+		return null;
+	}
+ 
+}

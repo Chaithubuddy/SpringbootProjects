@@ -1,0 +1,10 @@
+Hi{FULLANME},<br/>
+<br/>
+
+P1ease find your password below
+
+Password: {PWD}
+
+ Thanks,
+Admin Team.
+

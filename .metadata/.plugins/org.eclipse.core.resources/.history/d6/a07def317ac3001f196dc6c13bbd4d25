@@ -1,0 +1,11 @@
+package com.chaithu.repository;
+
+import java.io.Serializable;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.chaithu.entity.CitizenApp;
+
+public interface Citizenrepository extends JpaRepository<CitizenApp, Serializable>{
+
+}
