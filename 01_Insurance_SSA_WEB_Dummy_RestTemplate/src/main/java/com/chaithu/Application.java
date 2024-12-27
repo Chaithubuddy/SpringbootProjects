@@ -18,6 +18,7 @@ public class Application {
 
 }
 
+
 @RestController
 class SsnStateController {
 
@@ -36,6 +37,7 @@ class SsnStateController {
     }
 }
 
+//there for rest template purpose
 //http://localhost:8080/ssn/5534535 → Returns Rhode Island
 //http://localhost:8080/ssn/433534535 → Returns Ohio
 //http://localhost:8080/ssn/643434 → Returns New Jersey
